@@ -10,7 +10,7 @@
 #endif
 #endif
 
-#import "CTMediator+A_Category.h"
+#import "CTMediator+A.h"
 
 FOUNDATION_EXPORT double A_CategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char A_CategoryVersionString[];
